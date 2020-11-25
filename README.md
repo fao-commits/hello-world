@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+Hello world repository.
+A few lines about myself? No, it is just too late...
